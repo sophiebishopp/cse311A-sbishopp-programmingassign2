@@ -1,0 +1,360 @@
+Gen: 1
+1500.0
+1500.0
+1500.0
+NaN
+
+Gen: 2
+1500.0
+NaN
+NaN
+NaN
+
+Gen: 3
+1500.0
+NaN
+NaN
+NaN
+
+Gen: 4
+1500.0
+NaN
+NaN
+NaN
+
+Gen: 5
+1500.0
+NaN
+NaN
+NaN
+
+Gen: 6
+1500.0
+NaN
+NaN
+NaN
+
+Gen: 7
+1500.0
+NaN
+NaN
+NaN
+
+Gen: 8
+1500.0
+NaN
+NaN
+NaN
+
+Gen: 9
+1500.0
+NaN
+NaN
+NaN
+
+Gen: 10
+1500.0
+NaN
+NaN
+NaN
+
+Gen: 11
+1500.0
+NaN
+NaN
+NaN
+
+Gen: 12
+1500.0
+NaN
+NaN
+NaN
+
+Gen: 13
+1500.0
+NaN
+NaN
+NaN
+
+Gen: 14
+1500.0
+NaN
+NaN
+NaN
+
+Gen: 15
+1500.0
+NaN
+NaN
+NaN
+
+Gen: 16
+1500.0
+NaN
+NaN
+NaN
+
+Gen: 17
+1500.0
+NaN
+NaN
+NaN
+
+Gen: 18
+1500.0
+NaN
+NaN
+NaN
+
+Gen: 19
+1500.0
+NaN
+NaN
+NaN
+
+Gen: 20
+1500.0
+NaN
+NaN
+NaN
+
+Gen: 1
+1980.0
+1980.0
+NaN
+NaN
+
+Gen: 2
+1980.0
+1980.0
+NaN
+NaN
+
+Gen: 3
+1980.0
+1980.0
+NaN
+NaN
+
+Gen: 4
+1980.0
+1980.0
+NaN
+NaN
+
+Gen: 5
+1980.0
+1980.0
+NaN
+NaN
+
+Gen: 6
+1980.0
+1980.0
+NaN
+NaN
+
+Gen: 7
+1980.0
+1980.0
+NaN
+NaN
+
+Gen: 8
+1980.0
+1980.0
+NaN
+NaN
+
+Gen: 9
+1980.0
+1980.0
+NaN
+NaN
+
+Gen: 10
+1980.0
+1980.0
+NaN
+NaN
+
+Gen: 11
+1980.0
+1980.0
+NaN
+NaN
+
+Gen: 12
+1980.0
+NaN
+NaN
+NaN
+
+Gen: 13
+1980.0
+NaN
+NaN
+NaN
+
+Gen: 14
+1980.0
+NaN
+NaN
+NaN
+
+Gen: 15
+1980.0
+NaN
+NaN
+NaN
+
+Gen: 16
+1980.0
+NaN
+NaN
+NaN
+
+Gen: 17
+1980.0
+NaN
+NaN
+NaN
+
+Gen: 18
+1980.0
+NaN
+NaN
+NaN
+
+Gen: 19
+1980.0
+NaN
+NaN
+NaN
+
+Gen: 20
+1980.0
+NaN
+NaN
+NaN
+
+Gen: 1
+1980.0
+1980.0
+1980.0
+NaN
+
+Gen: 2
+1980.0
+1980.0
+1980.0
+NaN
+
+Gen: 3
+1980.0
+1980.0
+1980.0
+NaN
+
+Gen: 4
+1980.0
+1980.0
+1980.0
+NaN
+
+Gen: 5
+1980.0
+1980.0
+1980.0
+NaN
+
+Gen: 6
+1980.0
+1980.0
+1980.0
+NaN
+
+Gen: 7
+1980.0
+1980.0
+1980.0
+NaN
+
+Gen: 8
+1980.0
+1980.0
+1980.0
+NaN
+
+Gen: 9
+1980.0
+1980.0
+1980.0
+NaN
+
+Gen: 10
+1980.0
+1980.0
+1980.0
+NaN
+
+Gen: 11
+1980.0
+1980.0
+1980.0
+NaN
+
+Gen: 12
+1980.0
+NaN
+1980.0
+NaN
+
+Gen: 13
+1980.0
+NaN
+1980.0
+NaN
+
+Gen: 14
+1980.0
+NaN
+1980.0
+NaN
+
+Gen: 15
+1980.0
+NaN
+1980.0
+NaN
+
+Gen: 16
+1980.0
+NaN
+1980.0
+NaN
+
+Gen: 17
+1980.0
+NaN
+1980.0
+NaN
+
+Gen: 18
+1980.0
+NaN
+NaN
+NaN
+
+Gen: 19
+1980.0
+NaN
+NaN
+NaN
+
+Gen: 20
+1980.0
+NaN
+NaN
+NaN
+
